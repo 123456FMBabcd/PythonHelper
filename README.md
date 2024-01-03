@@ -1,8 +1,7 @@
 # PythonHelper
 
 # Introduction
-This is PythonHelper, a project designed to assist Python beginners. Inspired by my own experience of getting caught in the rain while learning Python, I wanted to provide an umbrella of support for others.
-
+This is PythonHelper, a project designed to assist Python beginners. Having faced challenges while learning Python, the author wishes to assist others in overcoming similar difficulties.
 # Project Features
 PythonHelper can help you with the installation of Python, as well as three common Python editors: PyCharm, Spyder, and Jupyter. It also installs a series of commonly used extension libraries and PyCharm plugins. The project automatically adjusts certain Python system requirements, such as environment variables, to facilitate a quick start with Python. When used in conjunction with some basic Python textbooks available in the market, PythonHelper can enhance the learning experience.
 
@@ -28,7 +27,7 @@ I'm a programming enthusiast who prefers to go by the name FMB. You can find me 
 # PythonHelper
 
 # 介绍
-这是PythonHelper，一个旨在帮助Python初学者的项目。受到在学习Python时被雨淋的经历启发，我希望为其他人提供一把遮风挡雨的伞。
+这是PythonHelper，一个旨在帮助Python初学者的项目。作者在学习python的时候曾淋过雨，所以想为后来人撑起一把伞。
 
 # 项目特点
 PythonHelper可以帮助您安装Python，以及三个常见的Python编辑器：PyCharm、Spyder和Jupyter。它还安装了一系列常用的扩展库和PyCharm插件。该项目会自动调整某些Python系统要求，比如环境变量，以便帮助您快速入门Python。与市面上一些基础的Python教材一起使用，PythonHelper可以提升学习体验。
