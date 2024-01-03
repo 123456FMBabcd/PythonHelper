@@ -9,6 +9,9 @@ PythonHelper can help you with the installation of Python, as well as three comm
 # How to Use
 After downloading the project, locate PythonHelper.exe and run it. Please ensure that Python and PyCharm are not already installed on your system. Grant administrator privileges to this application. If your device supports the operation of this project, the fully automated installation process should begin.
 
+# Feedback
+If you have any feedback, questions, or suggestions regarding PythonHelper, feel free to reach out to me via email at 2198789746@qq.com or fatheriscoming@126.com.
+
 # Difference from Anaconda
 1. While the Anaconda installer is relatively large and can consume a significant amount of disk space, PythonHelper strives to use minimal disk space to facilitate your Python learning experience.
 2. Anaconda includes numerous libraries and tools with relatively long startup times, whereas PythonHelper includes fewer but essential and useful libraries.
@@ -32,6 +35,9 @@ PythonHelper可以帮助您安装Python，以及三个常见的Python编辑器�
 
 # 如何使用
 在下载项目后，找到PythonHelper.exe并运行它。请确保您的系统上尚未安装Python和PyCharm，并授予此应用程序管理员权限。如果您的设备支持此项目的运行，完全自动化的安装过程应该已经开始。
+
+# 反馈
+如果您对PythonHelper有任何反馈、问题或建议，欢迎通过以下电子邮件地址与我联系：2198789746@qq.com 或 fatheriscoming@126.com。
 
 # 与Anaconda的区别
 1. 虽然Anaconda安装程序相对较大且可能占用大量磁盘空间，但PythonHelper努力使用尽可能少的磁盘空间，以促进您的Python学习体验。
