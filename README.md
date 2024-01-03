@@ -44,4 +44,4 @@ PythonHelper可以帮助您安装Python，以及三个常见的Python编辑器�
 3. Anaconda对系统有严格要求，在安装过程中发生错误后重新安装可能会带来很多麻烦。尽管PythonHelper面临相同的问题，但它配备了解决这些问题的工具。
 
 # 关于作者
-我是一位热衷于编程的爱好者，更愿意以FMB为名。您可以在Bilibili上找到我的账号：<鸽鸽Pigeons>，欢迎关注！我经常声称擅长Japhon++.net，意味着我精通Java、Python、C++和VB.NET。实际上，我真正擅长的只有Python！
+我是一位热衷于编程的爱好者，不愿透露姓名，叫我FMB就好。您可以在Bilibili上找到我的账号：<鸽鸽Pigeons>，欢迎关注！我经常声称擅长Japhon++.net，意味着我精通Java、Python、C++和VB.NET。实际上，我真正擅长的只有Python！
